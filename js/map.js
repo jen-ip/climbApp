@@ -125,7 +125,7 @@
         "elementType": "all",
         "stylers": [
             {
-                "color": "#1de9b6"
+                "color": "#21bcb0"
             },
             {
                 "visibility": "on"
@@ -168,7 +168,7 @@
         // Style the marker a bit. This will be our listing marker.
         defaultIcon = makeMarkerIcon('21bcb0');
         // Create a "highlighted location" marker color for when user mouses over marker.
-        var highlightedIcon = makeMarkerIcon('d9f03f');
+        var highlightedIcon = makeMarkerIcon('e7ff43');
 
         // The following group uses the location array to create an array of markers on initialize.
         for (var i = 0; i < locations.length; i++) {
